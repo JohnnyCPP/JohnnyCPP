@@ -68,6 +68,8 @@ I'm bussy updating this profile as my portfolio. Then, I plan on learning cyber 
 
 Feel free to contact me to: jonathanNavarroB@hotmail.com and I will answer as soon as I can.
 
+[<img src="https://raw.githubusercontent.com/johnNavarroB/johnNavarroB/master/pictures/linkedin.png" height="40em" align="center" title="Contact me on LinkedIn"/>](https://www.linkedin.com/in/john-navarro/)
+
 <!---
 johnNavarroB/johnNavarroB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
