@@ -54,7 +54,7 @@ I like to keep things swift and simple, so I'll mention technologies that I'm fa
 ## :grey_question: About me
 
 - Finished my studies of cross-platform software development in early 2022
-- I've been learning chinese on my own during three years
+- I've been learning mandarin chinese on my own during three years
 - Although I'm more of a back-end developer, I don't mind working as a full-stack
 - It's worth noting that I do everything in english. I've earned my english skills by myself
 - I'm a self-learner
