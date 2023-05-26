@@ -58,6 +58,7 @@ I like to keep things swift and simple, so I'll mention technologies that I'm fa
 ![](https://img.shields.io/badge/Testing_Framework-JUnit-red?logo=CodeFactor&logoColor=white&labelColor=383838&color=8d5b3a)
 ![](https://img.shields.io/badge/Tool-JPA-red?logo=CodeFactor&logoColor=white&labelColor=383838&color=8d5b3a)
 ![](https://img.shields.io/badge/Tool-AJAX-red?logo=CodeFactor&logoColor=white&labelColor=383838&color=8d5b3a)
+![](https://img.shields.io/badge/Tool-Node.js-red?logo=Node.js&logoColor=white&labelColor=383838&color=8d5b3a)
 ![](https://img.shields.io/badge/Build_Tool-Maven-red?logo=ApacheMaven&logoColor=white&labelColor=383838&color=8d5b3a)
 ![](https://img.shields.io/badge/Build_Tool-Gradle-red?logo=Gradle&logoColor=white&labelColor=383838&color=8d5b3a)
 
