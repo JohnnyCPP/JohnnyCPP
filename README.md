@@ -2,16 +2,17 @@
 
 Hi, everyone!
 
-I'm Jonathan, a junior software developer that enjoys working with data manipulation the most, abstraction of the information, 
-but also learns to develop some functional interfaces to interact with web and desktop applications.
+I'm Jonathan, a software developer that enjoys working with the server side the most, abstraction of the information, 
+but also learns to develop functional interfaces to interact with web and desktop applications.
 
-Recently, I made this GitHub profile to showcase my work and introduce myself as a profesional developer.
+I made this GitHub profile to showcase my work and introduce myself as a profesional developer.
 
 I like to keep things swift and simple, so I'll mention technologies that I'm familiar with:
 <!-- https://simpleicons.org/   https://shields.io/ -->
 ![](https://img.shields.io/badge/Language-Java-red?logo=GNOMETerminal&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-C_Sharp-red?logo=CSharp&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-Javascript-red?logo=JavaScript&logoColor=white&labelColor=383838&color=AA0000)
+![](https://img.shields.io/badge/Language-Typescript-red?logo=TypeScript&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-Lua-red?logo=Lua&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-Kotlin-red?logo=Kotlin&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-Python-red?logo=Python&logoColor=white&labelColor=383838&color=AA0000)
@@ -55,14 +56,14 @@ I like to keep things swift and simple, so I'll mention technologies that I'm fa
 
 - Finished my studies of cross-platform software development in early 2022
 - I've been learning mandarin chinese on my own during three years
-- Although I'm more of a back-end developer, I don't mind working as a full-stack
+- I'm flexible about working in the back-end, front-end or as a full-stack
 - It's worth noting that I do everything in english. I've earned my english skills by myself
 - I'm a self-learner
 - A part from programming, I like chemistry and science
 
 ## :wrench: What am I losing myself on right now?
 
-I'm bussy updating this profile as my portfolio. Then, I plan on learning cyber security and new technologies that I have in mind.
+I'm bussy updating this profile as my portfolio and developing a new project to learn client side technologies.
 
 ## :email: So you wanna get in touch
 
