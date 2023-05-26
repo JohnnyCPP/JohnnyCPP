@@ -55,6 +55,7 @@ I like to keep things swift and simple, so I'll mention technologies that I'm fa
 ![](https://img.shields.io/badge/Framework-Bootstrap-red?logo=Bootstrap&logoColor=white&labelColor=383838&color=8d5b3a)
 ![](https://img.shields.io/badge/Framework-Flask-red?logo=Flask&logoColor=white&labelColor=383838&color=8d5b3a)
 
+![](https://img.shields.io/badge/Framework-Angular-red?logo=Angular&logoColor=white&labelColor=383838&color=8d5b3a)
 ![](https://img.shields.io/badge/Testing_Framework-JUnit-red?logo=CodeFactor&logoColor=white&labelColor=383838&color=8d5b3a)
 ![](https://img.shields.io/badge/Tool-JPA-red?logo=CodeFactor&logoColor=white&labelColor=383838&color=8d5b3a)
 ![](https://img.shields.io/badge/Tool-AJAX-red?logo=CodeFactor&logoColor=white&labelColor=383838&color=8d5b3a)
