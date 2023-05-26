@@ -23,7 +23,7 @@ I like to keep things swift and simple, so I'll mention technologies that I'm fa
 ![](https://img.shields.io/badge/DBMS-PostgreSQL-red?logo=RxDB&logoColor=white&labelColor=383838&color=3eb900)
 ![](https://img.shields.io/badge/DBMS-MySQL-red?logo=RxDB&logoColor=white&labelColor=383838&color=3eb900)
 ![](https://img.shields.io/badge/DBMS-MariaDB-red?logo=RxDB&logoColor=white&labelColor=383838&color=3eb900)
-![](https://img.shields.io/badge/DBMS-SQL Server-red?logo=RxDB&logoColor=white&labelColor=383838&color=3eb900)
+![](https://img.shields.io/badge/DBMS-SQL_Server-red?logo=RxDB&logoColor=white&labelColor=383838&color=3eb900)
 ![](https://img.shields.io/badge/DBMS-MongoDB-red?logo=RxDB&logoColor=white&labelColor=383838&color=3eb900)
 ![](https://img.shields.io/badge/Version_Control-Git-red?logo=Git&logoColor=white&labelColor=383838&color=fafafa)
 
