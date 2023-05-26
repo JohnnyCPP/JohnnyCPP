@@ -7,6 +7,10 @@ but also learns to develop functional interfaces to interact with web and deskto
 
 I made this GitHub profile to showcase my work and introduce myself as a profesional developer.
 
+I consider myself a flexible developer, I train myself on learning and try to not stick to a single technology.
+So I can work relatively fast with most of the technologies I know.
+Although, I'm specially skilled in Java+Spring and I'm currently upgrading my front-end skills with Angular.
+
 I like to keep things swift and simple, so I'll mention technologies that I'm familiar with:
 <!-- https://simpleicons.org/   https://shields.io/ -->
 ![](https://img.shields.io/badge/Language-Java-red?logo=GNOMETerminal&logoColor=white&labelColor=383838&color=AA0000)
@@ -34,26 +38,27 @@ I like to keep things swift and simple, so I'll mention technologies that I'm fa
 ![](https://img.shields.io/badge/OS-Linux-red?logo=Linux&logoColor=white&labelColor=383838&color=1a54ef)
 ![](https://img.shields.io/badge/OS-Windows-red?logo=Windows&logoColor=white&labelColor=383838&color=1a54ef)
 
-![](https://img.shields.io/badge/Software-IntelliJ_IDEA-red?logo=IntelliJIDEA&logoColor=white&labelColor=383838&color=d3b600)
-![](https://img.shields.io/badge/Software-VS_Code-red?logo=VisualStudioCode&logoColor=white&labelColor=383838&color=d3b600)
-![](https://img.shields.io/badge/Software-Android_Studio-red?logo=Android&logoColor=white&labelColor=383838&color=d3b600)
-![](https://img.shields.io/badge/Software-Unity-red?logo=Unity&logoColor=white&labelColor=383838&color=d3b600)
+![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-red?logo=IntelliJIDEA&logoColor=white&labelColor=383838&color=d3b600)
+![](https://img.shields.io/badge/IDE-VS_Code-red?logo=VisualStudioCode&logoColor=white&labelColor=383838&color=d3b600)
+![](https://img.shields.io/badge/IDE-Android_Studio-red?logo=Android&logoColor=white&labelColor=383838&color=d3b600)
+![](https://img.shields.io/badge/Game_Engine-Unity-red?logo=Unity&logoColor=white&labelColor=383838&color=d3b600)
 ![](https://img.shields.io/badge/Software-Postman-red?logo=Postman&logoColor=white&labelColor=383838&color=d3b600)
 ![](https://img.shields.io/badge/Software-SoapUI-red?logo=Sahibinden&logoColor=white&labelColor=383838&color=d3b600)
+![](https://img.shields.io/badge/HTTP_Server-Apache-red?logo=ApacheTomcat&logoColor=white&labelColor=383838&color=d3b600)
+![](https://img.shields.io/badge/HTTP_Server-Apache_Tomcat-red?logo=ApacheTomcat&logoColor=white&labelColor=383838&color=d3b600)
 
-![](https://img.shields.io/badge/Software-Apache_Tomcat-red?logo=ApacheTomcat&logoColor=white&labelColor=383838&color=d3b600)
-![](https://img.shields.io/badge/Tool-Hibernate-red?logo=Hibernate&logoColor=white&labelColor=383838&color=8d5b3a)
-![](https://img.shields.io/badge/Tool-JDBC-red?logo=CodeFactor&logoColor=white&labelColor=383838&color=8d5b3a)
+![](https://img.shields.io/badge/Library-JDBC-red?logo=CodeFactor&logoColor=white&labelColor=383838&color=8d5b3a)
+![](https://img.shields.io/badge/Library-jQuery-red?logo=jQuery&logoColor=white&labelColor=383838&color=8d5b3a)
+![](https://img.shields.io/badge/Framework-Hibernate-red?logo=Hibernate&logoColor=white&labelColor=383838&color=8d5b3a)
+![](https://img.shields.io/badge/Framework-Spring-red?logo=SpringBoot&logoColor=white&labelColor=383838&color=8d5b3a)
+![](https://img.shields.io/badge/Framework-Bootstrap-red?logo=Bootstrap&logoColor=white&labelColor=383838&color=8d5b3a)
+![](https://img.shields.io/badge/Framework-Flask-red?logo=Flask&logoColor=white&labelColor=383838&color=8d5b3a)
+
+![](https://img.shields.io/badge/Testing_Framework-JUnit-red?logo=CodeFactor&logoColor=white&labelColor=383838&color=8d5b3a)
 ![](https://img.shields.io/badge/Tool-JPA-red?logo=CodeFactor&logoColor=white&labelColor=383838&color=8d5b3a)
 ![](https://img.shields.io/badge/Tool-AJAX-red?logo=CodeFactor&logoColor=white&labelColor=383838&color=8d5b3a)
-![](https://img.shields.io/badge/Tool-jQuery-red?logo=jQuery&logoColor=white&labelColor=383838&color=8d5b3a)
-
-![](https://img.shields.io/badge/Tool-Maven-red?logo=ApacheMaven&logoColor=white&labelColor=383838&color=8d5b3a)
-![](https://img.shields.io/badge/Tool-Gradle-red?logo=Gradle&logoColor=white&labelColor=383838&color=8d5b3a)
-![](https://img.shields.io/badge/Tool-Spring_Boot-red?logo=SpringBoot&logoColor=white&labelColor=383838&color=8d5b3a)
-![](https://img.shields.io/badge/Tool-Bootstrap-red?logo=Bootstrap&logoColor=white&labelColor=383838&color=8d5b3a)
-![](https://img.shields.io/badge/Tool-Flask-red?logo=Flask&logoColor=white&labelColor=383838&color=8d5b3a)
-![](https://img.shields.io/badge/Tool-JUnit-red?logo=CodeFactor&logoColor=white&labelColor=383838&color=8d5b3a)
+![](https://img.shields.io/badge/Build_Tool-Maven-red?logo=ApacheMaven&logoColor=white&labelColor=383838&color=8d5b3a)
+![](https://img.shields.io/badge/Build_Tool-Gradle-red?logo=Gradle&logoColor=white&labelColor=383838&color=8d5b3a)
 
 ## :grey_question: About me
 
