@@ -16,7 +16,7 @@ I like to keep things swift and simple, so I'll mention technologies that I'm fa
 ![](https://img.shields.io/badge/Language-Java-red?logo=GNOMETerminal&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-C_Sharp-red?logo=CSharp&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-Javascript-red?logo=JavaScript&logoColor=white&labelColor=383838&color=AA0000)
-![](https://img.shields.io/badge/Language-Typescript-red?logo=TypeScript&logoColor=white&labelColor=383838&color=AA0000)
+![](https://img.shields.io/badge/Supertype-Typescript-red?logo=TypeScript&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-Lua-red?logo=Lua&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-Kotlin-red?logo=Kotlin&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-Python-red?logo=Python&logoColor=white&labelColor=383838&color=AA0000)
@@ -44,7 +44,7 @@ I like to keep things swift and simple, so I'll mention technologies that I'm fa
 ![](https://img.shields.io/badge/Game_Engine-Unity-red?logo=Unity&logoColor=white&labelColor=383838&color=d3b600)
 ![](https://img.shields.io/badge/Software-Postman-red?logo=Postman&logoColor=white&labelColor=383838&color=d3b600)
 ![](https://img.shields.io/badge/Software-SoapUI-red?logo=Sahibinden&logoColor=white&labelColor=383838&color=d3b600)
-![](https://img.shields.io/badge/HTTP_Server-Apache-red?logo=ApacheTomcat&logoColor=white&labelColor=383838&color=d3b600)
+![](https://img.shields.io/badge/HTTP_Server-Apache-red?logo=Apache&logoColor=white&labelColor=383838&color=d3b600)
 ![](https://img.shields.io/badge/HTTP_Server-Apache_Tomcat-red?logo=ApacheTomcat&logoColor=white&labelColor=383838&color=d3b600)
 
 ![](https://img.shields.io/badge/Library-JDBC-red?logo=CodeFactor&logoColor=white&labelColor=383838&color=8d5b3a)
