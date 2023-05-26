@@ -16,12 +16,15 @@ I like to keep things swift and simple, so I'll mention technologies that I'm fa
 ![](https://img.shields.io/badge/Language-Lua-red?logo=Lua&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-Kotlin-red?logo=Kotlin&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-Python-red?logo=Python&logoColor=white&labelColor=383838&color=AA0000)
-
 ![](https://img.shields.io/badge/Language-PL/SQL-red?logo=GNOMETerminal&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-PHP-red?logo=PHP&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-Shellscript-red?logo=PowerShell&logoColor=white&labelColor=383838&color=AA0000)
-![](https://img.shields.io/badge/DB-SQL-red?logo=RxDB&logoColor=white&labelColor=383838&color=3eb900)
-![](https://img.shields.io/badge/DB-NoSQL-red?logo=RxDB&logoColor=white&labelColor=383838&color=3eb900)
+
+![](https://img.shields.io/badge/DBMS-PostgreSQL-red?logo=RxDB&logoColor=white&labelColor=383838&color=3eb900)
+![](https://img.shields.io/badge/DBMS-MySQL-red?logo=RxDB&logoColor=white&labelColor=383838&color=3eb900)
+![](https://img.shields.io/badge/DBMS-MariaDB-red?logo=RxDB&logoColor=white&labelColor=383838&color=3eb900)
+![](https://img.shields.io/badge/DBMS-SQL Server-red?logo=RxDB&logoColor=white&labelColor=383838&color=3eb900)
+![](https://img.shields.io/badge/DBMS-MongoDB-red?logo=RxDB&logoColor=white&labelColor=383838&color=3eb900)
 ![](https://img.shields.io/badge/Version_Control-Git-red?logo=Git&logoColor=white&labelColor=383838&color=fafafa)
 
 ![](https://img.shields.io/badge/Markup-HTML-red?logo=HTML5&logoColor=white&labelColor=383838&color=00c0bd)
