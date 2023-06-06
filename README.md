@@ -22,7 +22,8 @@ I like to keep things swift and simple, so I'll mention technologies that I'm fa
 ![](https://img.shields.io/badge/Language-Python-red?logo=Python&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-PL/SQL-red?logo=GNOMETerminal&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-PHP-red?logo=PHP&logoColor=white&labelColor=383838&color=AA0000)
-![](https://img.shields.io/badge/Language-Shellscript-red?logo=PowerShell&logoColor=white&labelColor=383838&color=AA0000)
+![](https://img.shields.io/badge/Language-Bash-red?logo=GNUBash&logoColor=white&labelColor=383838&color=AA0000)
+![](https://img.shields.io/badge/Language-PowerShell-red?logo=PowerShell&logoColor=white&labelColor=383838&color=AA0000)
 
 ![](https://img.shields.io/badge/DBMS-PostgreSQL-red?logo=PostgreSQL&logoColor=white&labelColor=383838&color=3eb900)
 ![](https://img.shields.io/badge/DBMS-MySQL-red?logo=MySQL&logoColor=white&labelColor=383838&color=3eb900)
