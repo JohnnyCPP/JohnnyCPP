@@ -76,7 +76,7 @@ I like to keep things swift and simple, so I'll mention technologies that I'm fa
 
 ## :wrench: What am I losing myself on right now?
 
-I'm bussy updating this profile as my portfolio and developing a new project to learn client side technologies.
+I'm currently developing C low-level applications and working in Java enterprise applications with Spring framework.
 
 ## :email: So you wanna get in touch
 
