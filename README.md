@@ -37,7 +37,7 @@ I like to keep things swift and simple, so I'll mention technologies that I'm fa
 ![](https://img.shields.io/badge/Style-CSS-red?logo=CSS3&logoColor=white&labelColor=383838&color=6812f4)
 ![](https://img.shields.io/badge/Format-JSON-red?logo=LibreOffice&logoColor=white&labelColor=383838&color=b6b6b6)
 ![](https://img.shields.io/badge/Format-XML-red?logo=LibreOffice&logoColor=white&labelColor=383838&color=b6b6b6)
-![](https://img.shields.io/badge/OS-Linux-red?logo=Linux&logoColor=white&labelColor=383838&color=1a54ef)
+![](https://img.shields.io/badge/OS-Arch_Linux-red?logo=ArchLinux&logoColor=white&labelColor=383838&color=1a54ef)
 ![](https://img.shields.io/badge/OS-Windows-red?logo=Windows&logoColor=white&labelColor=383838&color=1a54ef)
 ![](https://img.shields.io/badge/Cloud_Provider-AWS-red?logo=AmazonAWS&logoColor=white&labelColor=383838&color=ff9c2c)
 
