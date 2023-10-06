@@ -14,6 +14,7 @@ Although, I'm specially skilled in Java+Spring and I'm currently upgrading my fr
 I like to keep things swift and simple, so I'll mention technologies that I'm familiar with:
 <!-- https://simpleicons.org/   https://shields.io/ -->
 ![](https://img.shields.io/badge/Language-Java-red?logo=GNOMETerminal&logoColor=white&labelColor=383838&color=AA0000)
+![](https://img.shields.io/badge/Language-C-red?logo=C&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-C_Sharp-red?logo=CSharp&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Language-Javascript-red?logo=JavaScript&logoColor=white&labelColor=383838&color=AA0000)
 ![](https://img.shields.io/badge/Supertype-Typescript-red?logo=TypeScript&logoColor=white&labelColor=383838&color=AA0000)
