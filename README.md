@@ -1,5 +1,7 @@
 ## :mega:~! Introduction
 
+Note: this README is deprecated, I'm working in updating it when I have time.
+
 Hi, everyone!
 
 I'm Jonathan, a software developer that enjoys working with the server side the most, abstraction of the information, 
@@ -80,7 +82,7 @@ I'm currently developing C low-level applications and working in Java enterprise
 
 ## :email: So you wanna get in touch
 
-Feel free to contact me to: jonathanNavarroB@hotmail.com and I will answer as soon as I can.
+Feel free to contact me to: - and I will answer as soon as I can.
 
 [<img src="https://raw.githubusercontent.com/johnNavarroB/johnNavarroB/master/pictures/linkedin.png" height="40em" align="center" title="Contact me on LinkedIn"/>](https://www.linkedin.com/in/john-navarro/)
 
