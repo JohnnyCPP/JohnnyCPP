@@ -1,8 +1,6 @@
 ### Hello there!
 ###### Yes, this is a Star Wars reference.
 
-**Full-Stack Developer | Aspiring L1 SOC Analyst**
-
 I'm Johnny, student at 42 Madrid. A curious learner passionate about science and technology.
 
 In my free time, I enjoy learning about electronics, chemistry, and computer science.
