@@ -5,7 +5,7 @@
 
 I'm Johnny, student at 42 Madrid. A curious learner passionate about science and technology.
 
-In my free time I enjoy learning electronics, chemistry, and computer science.
+In my free time, I enjoy learning about electronics, chemistry, and computer science.
 
 - 🔭 Currently studying: **CompTIA Security+** and **LetsDefend SOC Analyst Path**
 - 🌱 Learning: Threat detection, SIEM tools, and incident response
