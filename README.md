@@ -9,6 +9,7 @@ In my free time, I enjoy learning about electronics, chemistry, and computer sci
 - 🔭 Currently studying: **CompTIA Security+** and **LetsDefend SOC Analyst Path**
 - 🌱 Learning: Threat detection, SIEM tools, and incident response
 - 📫 [LinkedIn](https://www.linkedin.com/in/johnny-cpp/) & [LetsDefend](https://app.letsdefend.io/user/johnnycpp)
+- 🛡️ Check my new repository for [LetsDefend Incidents](https://github.com/JohnnyCPP/letsdefend_incidents)
 
 <!-- https://simpleicons.org/   https://shields.io/ -->
 ![](https://img.shields.io/badge/OS-Arch_Linux-red?logo=ArchLinux&logoColor=white&labelColor=383838&color=1a54ef)
